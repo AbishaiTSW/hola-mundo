@@ -1,0 +1,1 @@
+"Hola mundo" is a common phrase used in programming to demonstrate the basic syntax of a programming language. It translates to "Hello world" in English and is often the first program written by beginners when learning a new programming language.
